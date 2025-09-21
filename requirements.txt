@@ -1,0 +1,2 @@
+discord.py
+flask   # nếu bạn dùng keep-alive
